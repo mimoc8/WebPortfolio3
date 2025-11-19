@@ -63,13 +63,13 @@ footer .logo img {
   height: 60px;
 }
 
-nav .nav-links {
+nav .nav-link{
   display: flex;
   gap: 16px;
   align-items: center;
 }
 
-nav .nav-links a:hover,
+nav .nav-link a:hover,
 nav .nav-links a.selected {
   color: #303f9f;
 }
@@ -622,3 +622,4 @@ footer .bottom .links a {
     max-width: 100%;
   }
   }
+
